@@ -5,6 +5,8 @@ Proyek ini merupakan bagian dari Mini Project Praktikum Bioinformatika, Fakultas
 
 ## 👥 Tim Peneliti 
 Maria Nathania Prasetyo 23/518903/BI/11301
+Lanaa Naila Najiha 23/515427/BI/11227
+Fadhlurrahman Manarul Huda Surya Falah 23/519885/BI/11318
 
 ## 📌 Latar Belakang
 Konflik antara manusia dan satwa liar, khususnya Monyet Ekor Panjang (*Macaca fascicularis*), semakin sering terjadi akibat penyusutan habitat. Proyek ini memetakan titik-titik rawan konflik (hotspot) di Indonesia menggunakan *occurrence data* dari Global Biodiversity Information Facility (GBIF) yang diklasterisasi menggunakan algoritma K-Means.
